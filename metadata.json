@@ -1,0 +1,6 @@
+{
+  "name": "Celebrate",
+  "description": "A cheerful birthday reminder app with countdowns, celebration motifs, contact details, gift notes, and calendar view.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
